@@ -1,0 +1,580 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8252139997816153665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/b
+  m_EditorClassIdentifier: 
+  Path: event:/b
+  Guid:
+    Data1: 949349941
+    Data2: 1329369028
+    Data3: -2030472544
+    Data4: 1587883017
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-7591886612601637090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/allNotes
+  m_EditorClassIdentifier: 
+  Path: event:/allNotes
+  Guid:
+    Data1: -778298099
+    Data2: 1341121777
+    Data3: -191923060
+    Data4: -1332744610
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-7530093952869052118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Maze.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/FMOD Studio/TCCGameFMODProject/Build/Desktop/Maze.bank
+  Name: Maze
+  StudioPath: bank:/Maze
+  lastModified: 638776007963553354
+  FileSizes:
+  - Name: Desktop
+    Value: 748416
+  Exists: 1
+--- !u!114 &-7253127701341504290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/e
+  m_EditorClassIdentifier: 
+  Path: event:/e
+  Guid:
+    Data1: -1278258927
+    Data2: 1296501494
+    Data3: 1993834387
+    Data4: 261510289
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-6079789870692322500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/c8th
+  m_EditorClassIdentifier: 
+  Path: event:/c8th
+  Guid:
+    Data1: -91812176
+    Data2: 1258451050
+    Data3: -1717064534
+    Data4: 1776744189
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-5881156650365947913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/c
+  m_EditorClassIdentifier: 
+  Path: event:/c
+  Guid:
+    Data1: -231722540
+    Data2: 1271183603
+    Data3: 73062019
+    Data4: -2118684158
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &-5536810385462160019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoAm
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoAm
+  Guid:
+    Data1: 1321834442
+    Data2: 1301084191
+    Data3: -2051309140
+    Data4: 1755386229
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &-4896249834888169418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoC3
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoC3
+  Guid:
+    Data1: 1314388449
+    Data2: 1077587647
+    Data3: -1417128043
+    Data4: -1582882428
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &-4244056474686021719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/FMOD Studio/TCCGameFMODProject/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638776007962753668
+  FileSizes:
+  - Name: Desktop
+    Value: 1074
+  Exists: 1
+--- !u!114 &-3998531903648353197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/f
+  m_EditorClassIdentifier: 
+  Path: event:/f
+  Guid:
+    Data1: -870657173
+    Data2: 1112482832
+    Data3: 871382162
+    Data4: 1018124907
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 7351554860822180707}
+  - {fileID: -4244056474686021719}
+  - {fileID: 438526350359088931}
+  - {fileID: -7530093952869052118}
+  EditorEvents:
+  - {fileID: -7591886612601637090}
+  - {fileID: -7253127701341504290}
+  - {fileID: 7811427679706247680}
+  - {fileID: -8252139997816153665}
+  - {fileID: 1645981438842541759}
+  - {fileID: 650262376843486869}
+  - {fileID: -3998531903648353197}
+  - {fileID: -6079789870692322500}
+  - {fileID: -5881156650365947913}
+  - {fileID: 494855382728784887}
+  - {fileID: 4303343290195200010}
+  - {fileID: -5536810385462160019}
+  - {fileID: 3181808937011184470}
+  - {fileID: 288653097967344890}
+  - {fileID: -4896249834888169418}
+  - {fileID: 9014935642339271524}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -4244056474686021719}
+  StringsBanks:
+  - {fileID: 7351554860822180707}
+  cacheTime: 638776007963553354
+  cacheVersion: 131846
+--- !u!114 &288653097967344890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoAm2
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoAm2
+  Guid:
+    Data1: 701435615
+    Data2: 1226011020
+    Data3: -1443239505
+    Data4: 413223786
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &438526350359088931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Notes.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/FMOD Studio/TCCGameFMODProject/Build/Desktop/Notes.bank
+  Name: Notes
+  StudioPath: bank:/Notes
+  lastModified: 638768796434188030
+  FileSizes:
+  - Name: Desktop
+    Value: 116064
+  Exists: 1
+--- !u!114 &494855382728784887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoC2
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoC2
+  Guid:
+    Data1: 795555947
+    Data2: 1328683355
+    Data3: -1930236530
+    Data4: 693661669
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &650262376843486869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/d
+  m_EditorClassIdentifier: 
+  Path: event:/d
+  Guid:
+    Data1: 1564389443
+    Data2: 1337858113
+    Data3: 1768661399
+    Data4: 1931861920
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &860495177643750603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/MazeSongs/songList
+  m_EditorClassIdentifier: 
+  Name: songList
+  StudioPath: 
+  Min: 1
+  Max: 6
+  Default: 1
+  ID:
+    data1: 70100270
+    data2: 2308158703
+  Type: 1
+  IsGlobal: 0
+  Labels: []
+  Exists: 1
+--- !u!114 &1645981438842541759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/g
+  m_EditorClassIdentifier: 
+  Path: event:/g
+  Guid:
+    Data1: -1716069058
+    Data2: 1211393063
+    Data3: 1371978168
+    Data4: 641843068
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &3181808937011184470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoC
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoC
+  Guid:
+    Data1: -1547556394
+    Data2: 1225547745
+    Data3: -1053555573
+    Data4: 1525043304
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &4303343290195200010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/LabirintoAm3
+  m_EditorClassIdentifier: 
+  Path: event:/LabirintoAm3
+  Guid:
+    Data1: -700116828
+    Data2: 1203111984
+    Data3: -725580632
+    Data4: -1155112711
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 11000
+--- !u!114 &7351554860822180707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../Documents/FMOD Studio/TCCGameFMODProject/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638776007962783662
+  FileSizes:
+  - Name: Desktop
+    Value: 1480
+  Exists: 1
+--- !u!114 &7811427679706247680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/a
+  m_EditorClassIdentifier: 
+  Path: event:/a
+  Guid:
+    Data1: -98837965
+    Data2: 1105068409
+    Data3: -1596526417
+    Data4: -1128621881
+  Banks:
+  - {fileID: 438526350359088931}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &9014935642339271524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MazeSongs
+  m_EditorClassIdentifier: 
+  Path: event:/MazeSongs
+  Guid:
+    Data1: -284129841
+    Data2: 1107707192
+    Data3: 880497085
+    Data4: -97246664
+  Banks:
+  - {fileID: -7530093952869052118}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters:
+  - {fileID: 860495177643750603}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
