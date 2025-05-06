@@ -1,3 +1,5 @@
+#The Melodians Journey
+
 The Melodians Journey is an educational game that aims to teach music theory to students through playful challenges.
 
 The player takes the role of an apprentice that aims to become a full mage in a world where music is magic. To become a complete mage, the player must complete the journey, solving all the challenges and claiming the title of Melodiam.
@@ -7,6 +9,8 @@ Currently, there are two challenges:
 The first is the Scroll challenge, where the player needs to decypher a scroll containing the spell that will lead them to the next challenge. This challenge is modeled after an exercise where the student separates musical notes in groups of the same length based on the measure provided.
 
 The second is the Labyrinth challenge, where the player needs to navigate through a magical maze where the only way out is following the path that matches the music being played. This challenge is modeled after an exercise where music is played and the student has to classify it in terms of major or minor.
+
+# A Jornada do Melodiam Aprendiz
 
 A jornada do Melodiam Aprendiz é um jogo educacional que busca ensinar teoria musical para estudante por meio de desafios lúdicos.
 
