@@ -1,4 +1,4 @@
-#The Melodians Journey
+# The Melodians Journey
 
 The Melodians Journey is an educational game that aims to teach music theory to students through playful challenges.
 
